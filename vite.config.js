@@ -7,7 +7,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 // https://vite.dev/config/
 export default defineConfig({
   // TAMBAHKAN BARIS DI BAWAH INI
-  base: '/Tugas-Besar-2_Nabilla/', 
+  base: './',
   
   plugins: [
     vue(),
